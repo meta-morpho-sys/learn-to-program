@@ -1,6 +1,6 @@
 =begin
-Angry boss program
-Whatever your tell this angry boss he will yell back to you and will fire you.
+Angry boss program.
+Whatever your tell this angry boss he will yell back to you and will fire you. But I added a happy ending.
 =end
 
 puts 'Good afternoon, Mr. Brodsky'
